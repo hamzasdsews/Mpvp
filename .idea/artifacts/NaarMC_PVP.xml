@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NaarMC_PVP">
+    <output-path>$USER_HOME$/Desktop/Test Connecion/PVP/plugins</output-path>
+    <root id="archive" name="NaarMC_PVP.jar">
+      <element id="module-output" name="[N] PVP v0.1" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,51 @@
+name: NaarMC_PVP
+author: 1ixAbdullah1 & Aboudey96
+main: me.abdullah.pvp.a.main.Main
+version: 0.1
+commands:
+  addxp:
+  addlevel:
+  addtokens:
+  build:
+
+  freeze:
+  unfreeze:
+  freezegui:
+
+  resetxp:
+  resetlevel:
+  resettokens:
+
+  removexp:
+  removelevel:
+  removetokens:
+
+  level:
+  levels:
+  tokens:
+  XP:
+  world:
+  emoji:
+  rules:
+  stats:
+  records:
+  addpoints:
+  removepoints:
+  ffa:
+  fly:
+  staff:
+  gm:
+  gamemode:
+  tp:
+  tpall:
+  ps:
+  clear:
+  AXNB06NAR:
+  invsee:
+  cc:
+  setspawn:
+  resetstats:
+  setjail:
+  spawn:
+  top:
+  custom:

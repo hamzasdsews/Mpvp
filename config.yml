@@ -1,0 +1,92 @@
+# 
+#                                                            #
+#                        NaarMC_PVP                          #
+#                                                            #
+Lobby: Lobby
+afteremojimessagecolor: '&f'
+PVPSQL:
+  Host: panel.silvermc.tk:3306
+  Port: 3306
+  Database: s30_pvp
+  Username: u30_puP7rzRvsC
+  Password: hAP4flwA+1c^FfOuBfTbsvSG
+LobbySQL:
+  Host: panel.silvermc.tk:3306
+  Port: 3306
+  Database: s30_lobby
+  Username: u30_y8P70PoFGZ
+  Password: I.n9wd4PJHYQoTnu.hZhisZh
+CommandBlacklist:
+- spawn
+- hub
+- lobby
+Combat:
+  NoLonger: true
+settings:
+  config_version: 0.2
+  prefix: "&7&l\xe2\u201d\u0192 &e&lScreen&b&lShare &7\xe2\u2013\xb6 "
+  check_update_on_join: false
+commands:
+  punish_command: tempban %player% 7d Console Banned you for Logout from Freeze!
+  slog_command: tempban %player% 7d Console Banned you for Logout from Freeze!
+freezegui:
+  display_name: '&c&lYou have been frozen'
+  Items:
+    '1':
+      material: GOLDEN_APPLE
+      damage: 0
+      amount: 1
+      name: '&9&lDiscord'
+      slot: 0
+      lore:
+      - ''
+      - "&8\xe2\u200d\xa5 &6https://discord.io/NaarMCs"
+      - ''
+      - "&b\xe2\u2013\u061b Click to alert the Staff"
+      - "&7\xe2\u2013\u061b that you are entering &9our Discord."
+      - ''
+      - "&4\xe2\u200d\u06ba Disconnect = BAN"
+    '2':
+      material: NETHER_STAR
+      damage: 0
+      amount: 1
+      name: '&c&lADMITTED CHEAT'
+      slot: 4
+      lore:
+      - ''
+      - "&b\xe2\u2013\u061b If you click here, your ban"
+      - "&b\xe2\u2013\u061b will be reduced"
+suregui:
+  display_name: '&c&lConfirm?'
+  Items:
+    '1':
+      material: WOOL
+      damage: 13
+      amount: 1
+      name: '&c&lYes'
+      slot: 2
+      lore:
+      - '&cConfirm that you are using Hack'
+    '2':
+      material: WOOL
+      damage: 14
+      amount: 1
+      name: '&c&lNo'
+      slot: 6
+      lore:
+      - '&cGo back'
+Spawn:
+  '1':
+    world: PVP
+    x: -563.3014114350926
+    y: 111.0
+    z: -2585.4257364013733
+    yaw: -319.32016
+    pitch: 9.973148
+  '2':
+    world: PVP
+    x: -580.6999999880791
+    y: 97.0
+    z: -2574.699999988079
+    yaw: -83.82209
+    pitch: 4.425788

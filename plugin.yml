@@ -1,0 +1,28 @@
+name: NaarMC_PVP
+author: 1ixAbdullah1 & Aboudey96
+main: me.abdullah.pvp.a.main.Main
+version: 0.1
+commands:
+  emoji:
+  rules:
+  custom:
+  stats:
+  records:
+  shop:
+  addpoints:
+  removepoints:
+  ffa:
+  fly:
+  staff:
+  gm:
+  gamemode:
+  tp:
+  tpall:
+  ps:
+  clear:
+  invsee:
+  cc:
+  setspawn:
+  resetstats:
+  setjail:
+  spawn: 
